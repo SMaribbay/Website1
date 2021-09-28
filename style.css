@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+body{
+  background: #D5FEF0;
+  color: black;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+
+}
+.header {
+  text-align: center;
+
+}
+h1 {
+font-size: 100px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+background-color: #9C0500;
+border-color: #DA7AEB;
+border-width: medium;
+
+}
+class2 {
+  font-size: 100px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+  background-color: #9C0500;
+  border-color: #DA7AEB;
+  border-width: medium;
+
+}
+h2{
+  font-size: 30px;
+  background-color: #9C0500;
+}
+h3{
+  font-size: 30px;
+
+}
+.navMenu{
+  position: sticky;
+  background-color: #98EBBE;
+  position: fixed;
+  height:100%;
+  width:80px;
+
+  padding-left: 15px;
+  top: 0px;
+  left:0px;
+}
+img-with-text {
+    text-align: justify;
+    width: "300";
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+  margin: 0px 0px 32px 0px;
+  font-size: 20px;
+}
+li{
+  font-size: 30px;
+}
+
+.heroImage{
+  width: 100%;
+  display: block;
+}
+.footer{
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  font-size: 30px
+}
